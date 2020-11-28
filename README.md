@@ -6,5 +6,5 @@
 - [x] Customer Service
 - [x] Discovery Service: a registry for services to register themselves
 and to ask for other services they need to communicate to.
-- [ ] Gateway Service: sends incoming request to matched target service,
+- [ ] Gateway Service: receives client incoming request, matches and sends it to target service,
     receives response, then responds back to client.
